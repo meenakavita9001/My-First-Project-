@@ -84,15 +84,6 @@ Through this project, I practiced:
 - Performing basic calculations.
 - Building a menu-driven console application.
 
-🔮 Future Improvements
-
-- Store expenses permanently using JSON or CSV.
-- Add expense deletion functionality.
-- Implement category-wise expense tracking.
-- Generate monthly expense reports.
-- Integrate SQLite or MySQL database.
-- Develop a web-based interface using Django.
-
 👩‍💻 Author
 
 Kavita Meena
